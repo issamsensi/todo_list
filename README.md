@@ -6,7 +6,8 @@ A simple and clean **To-Do List** application built with **Flutter**, designed t
 
 ## 📱 Screenshots
 
-![](C:\Users\ISSAM SENSI\Pictures\scrernshots\Capture.PNG)
+<img width="198" height="389" alt="Capture" src="https://github.com/user-attachments/assets/87c1d213-0034-4c55-96c0-32e8e62b9a79" />
+
 
 ---
 
